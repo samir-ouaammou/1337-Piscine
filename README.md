@@ -64,71 +64,19 @@
                 </tr>
             </thead>
             <tbody>
-                <tr>
-                    <td>C00</td>
-                    <td>✅ Done</td>
-                    <td>3 months ago</td>
-                </tr>
-                <tr>
-                    <td>C01</td>
-                    <td>✅ Done</td>
-                    <td>3 months ago</td>
-                </tr>
-                <tr>
-                    <td>C02</td>
-                    <td>✅ Done</td>
-                    <td>3 months ago</td>
-                </tr>
-                <tr>
-                    <td>C03</td>
-                    <td>✅ Done</td>
-                    <td>3 months ago</td>
-                </tr>
-                <tr>
-                    <td>C04</td>
-                    <td>✅ Done</td>
-                    <td>3 months ago</td>
-                </tr>
-                <tr>
-                    <td>C05</td>
-                    <td>✅ Done</td>
-                    <td>3 months ago</td>
-                </tr>
-                <tr>
-                    <td>C06</td>
-                    <td>✅ Done</td>
-                    <td>3 months ago</td>
-                </tr>
-                <tr>
-                    <td>C07</td>
-                    <td>✅ Done</td>
-                    <td>3 months ago</td>
-                </tr>
-                <tr>
-                    <td>C08</td>
-                    <td>✅ Done</td>
-                    <td>3 months ago</td>
-                </tr>
-                <tr>
-                    <td>C09</td>
-                    <td>✅ Done</td>
-                    <td>3 months ago</td>
-                </tr>
-                <tr>
-                    <td>C11</td>
-                    <td>✅ Done</td>
-                    <td>3 months ago</td>
-                </tr>
-                <tr>
-                    <td>Shell00</td>
-                    <td>✅ Done</td>
-                    <td>3 months ago</td>
-                </tr>
-                <tr>
-                    <td>Shell01</td>
-                    <td>✅ Done</td>
-                    <td>3 months ago</td>
-                </tr>
+                <tr><td>C00</td><td>✅ Done</td><td>3 months ago</td></tr>
+                <tr><td>C01</td><td>✅ Done</td><td>3 months ago</td></tr>
+                <tr><td>C02</td><td>✅ Done</td><td>3 months ago</td></tr>
+                <tr><td>C03</td><td>✅ Done</td><td>3 months ago</td></tr>
+                <tr><td>C04</td><td>✅ Done</td><td>3 months ago</td></tr>
+                <tr><td>C05</td><td>✅ Done</td><td>3 months ago</td></tr>
+                <tr><td>C06</td><td>✅ Done</td><td>3 months ago</td></tr>
+                <tr><td>C07</td><td>✅ Done</td><td>3 months ago</td></tr>
+                <tr><td>C08</td><td>✅ Done</td><td>3 months ago</td></tr>
+                <tr><td>C09</td><td>✅ Done</td><td>3 months ago</td></tr>
+                <tr><td>C11</td><td>✅ Done</td><td>3 months ago</td></tr>
+                <tr><td>Shell00</td><td>✅ Done</td><td>3 months ago</td></tr>
+                <tr><td>Shell01</td><td>✅ Done</td><td>3 months ago</td></tr>
             </tbody>
         </table>
     </div>
