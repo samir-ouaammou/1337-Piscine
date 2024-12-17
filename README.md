@@ -28,7 +28,6 @@ The **Piscine** was an intense, month-long coding bootcamp where I learned to pu
 | Shell01   | ✅ Done     |
 
 
-
 ## 🏆 Key Achievements
 - Mastered C programming basics, including pointers, memory management, and recursion.
 - Wrote functional Bash scripts and automated workflows.
