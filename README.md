@@ -1,108 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1337 Piscine Journey</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h1, h2, h3 {
+            color: #0078D7;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        table th, table td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: center;
+        }
+        table th {
+            background-color: #0078D7;
+            color: white;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li::before {
+            content: "✅";
+            margin-right: 10px;
+            color: #28a745;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        .highlight {
+            color: #28a745;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>🏊‍♂️ 1337 Piscine Journey</h1>
+    <p>Welcome to my <strong>1337 Piscine Repository</strong>! 🚀</p>
+    <p>The <span class="highlight">Piscine</span> was an intense, month-long coding bootcamp where I learned to push my limits, solve complex problems, and master the basics of <strong>C programming</strong> and <strong>Shell scripting</strong>.</p>
 
+    <div class="section">
+        <h2>📊 My Progress Overview</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Module</th>
+                    <th>Status</th>
+                    <th>Completion</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>C00</td>
+                    <td>✅ Done</td>
+                    <td>3 months ago</td>
+                </tr>
+                <tr>
+                    <td>C01</td>
+                    <td>✅ Done</td>
+                    <td>3 months ago</td>
+                </tr>
+                <tr>
+                    <td>C02</td>
+                    <td>✅ Done</td>
+                    <td>3 months ago</td>
+                </tr>
+                <tr>
+                    <td>C03</td>
+                    <td>✅ Done</td>
+                    <td>3 months ago</td>
+                </tr>
+                <tr>
+                    <td>C04</td>
+                    <td>✅ Done</td>
+                    <td>3 months ago</td>
+                </tr>
+                <tr>
+                    <td>C05</td>
+                    <td>✅ Done</td>
+                    <td>3 months ago</td>
+                </tr>
+                <tr>
+                    <td>C06</td>
+                    <td>✅ Done</td>
+                    <td>3 months ago</td>
+                </tr>
+                <tr>
+                    <td>C07</td>
+                    <td>✅ Done</td>
+                    <td>3 months ago</td>
+                </tr>
+                <tr>
+                    <td>C08</td>
+                    <td>✅ Done</td>
+                    <td>3 months ago</td>
+                </tr>
+                <tr>
+                    <td>C09</td>
+                    <td>✅ Done</td>
+                    <td>3 months ago</td>
+                </tr>
+                <tr>
+                    <td>C11</td>
+                    <td>✅ Done</td>
+                    <td>3 months ago</td>
+                </tr>
+                <tr>
+                    <td>Shell00</td>
+                    <td>✅ Done</td>
+                    <td>3 months ago</td>
+                </tr>
+                <tr>
+                    <td>Shell01</td>
+                    <td>✅ Done</td>
+                    <td>3 months ago</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
 
-🏊‍♂️ 1337 Piscine Journey
-Welcome to my 1337 Piscine Repository! 🚀
+    <div class="section">
+        <h2>🏆 Key Achievements</h2>
+        <ul>
+            <li>Mastered C programming basics, including pointers, memory management, and recursion.</li>
+            <li>Wrote functional Bash scripts and automated workflows.</li>
+            <li>Improved debugging skills using <code>gdb</code> and Valgrind.</li>
+            <li>Successfully managed multiple projects under tight deadlines.</li>
+            <li>Gained confidence to tackle complex programming challenges.</li>
+        </ul>
+    </div>
 
+    <div class="section">
+        <h2>🔥 Challenges Overcome</h2>
+        <p>Throughout the Piscine, I faced and overcame challenges like:</p>
+        <ul>
+            <li>Understanding and working with <strong>pointers</strong> in C.</li>
+            <li>Debugging segmentation faults and memory leaks.</li>
+            <li>Writing clean, efficient, and error-free shell scripts.</li>
+            <li>Managing time efficiently during intense evaluations.</li>
+        </ul>
+    </div>
 
+    <div class="section">
+        <h2>🎯 Next Steps</h2>
+        <p>With the foundation built during the Piscine, I am now focused on:</p>
+        <ul>
+            <li>Conquering advanced projects like <strong>libft</strong>, <strong>ft_printf</strong>, and <strong>Born2beroot</strong>.</li>
+            <li>Improving my skills in system programming, process management, and system calls.</li>
+            <li>Exploring data structures, algorithms, and competitive programming.</li>
+            <li>Collaborating on open-source projects and contributing to the tech community.</li>
+        </ul>
+    </div>
 
-The Piscine is an intense, month-long coding bootcamp where I immersed myself in programming, problem-solving, and collaboration. This experience tested my discipline, perseverance, and ability to think like a programmer.
+    <div class="section">
+        <h2>🌟 Reflection</h2>
+        <p>The <strong>1337 Piscine</strong> was more than just a bootcamp—it was a transformative experience. It taught me:</p>
+        <ul>
+            <li>How to learn through challenges and failures.</li>
+            <li>The importance of patience, persistence, and discipline.</li>
+            <li>That with hard work and consistency, no problem is unsolvable.</li>
+        </ul>
+    </div>
 
-
-
-📊 My Progress Overview
-I successfully completed all Piscine modules, tackling a variety of challenges that strengthened my programming foundations.
-
-
-
-🗂 Completed Modules
-Module	Status	Completion
-C00	✅ Done	3 months ago
-C01	✅ Done	3 months ago
-C02	✅ Done	3 months ago
-C03	✅ Done	3 months ago
-C04	✅ Done	3 months ago
-C05	✅ Done	3 months ago
-C06	✅ Done	3 months ago
-C07	✅ Done	3 months ago
-C08	✅ Done	3 months ago
-C09	✅ Done	3 months ago
-C11	✅ Done	3 months ago
-Shell00	✅ Done	3 months ago
-Shell01	✅ Done	3 months ago
-
-
-🏆 Key Achievements
-💻 Technical Skills Developed
-C Programming:
-Mastered syntax, loops, functions, and recursion.
-Improved understanding of pointers, memory allocation, and file I/O.
-Debugged complex programs using tools like gdb and Valgrind.
-Shell Scripting:
-Learned essential Unix commands (e.g., ls, grep, awk, sed).
-Automated workflows using Bash scripts.
-Managed file permissions, processes, and shell environments.
-Git & Version Control:
-Mastered using git for version control, collaboration, and project submissions.
-
-
-🚀 Personal Growth
-Time Management: Balanced multiple projects under strict deadlines.
-Resilience: Learned to keep pushing forward through challenging tasks and failures.
-Teamwork: Engaged in peer coding sessions, feedback, and group challenges.
-Problem-Solving: Developed logical thinking to approach coding problems efficiently.
-
-
-🔥 Biggest Challenges
-Understanding and using pointers without segmentation faults.
-Managing memory with malloc and avoiding leaks.
-Debugging code under time pressure during evaluations.
-Writing clean and efficient shell scripts.
-These challenges taught me the value of patience, persistence, and the importance of thinking through the problem before coding.
-
-
-
-🎯 Next Steps
-The Piscine laid a solid foundation for my programming journey. Here’s what’s next:
-
-Deep Dive into Advanced Projects
-
-🛠 libft: Building a custom C library from scratch.
-🛠 ft_printf: Recreating the printf function with full format specifier support.
-🛠 Born2beroot: Exploring system administration and virtualization.
-Explore System Programming
-
-Gain deeper knowledge in processes, pipes, and system calls.
-Practice with advanced tools like execve, fork, and pipe.
-Contribute to Open-Source Projects
-
-Collaborate with developers to solve real-world problems.
-Improve my skills while giving back to the tech community.
-Learn Advanced Algorithms
-
-Focus on data structures, dynamic programming, and optimization techniques.
-Prepare for competitive programming and coding challenges.
-
-
-🌟 Why the Piscine Was Special
-The 1337 Piscine wasn’t just about coding—it was about:
-
-Discipline: Coding 12+ hours daily to improve.
-Collaboration: Learning from peers and sharing knowledge.
-Overcoming Failure: Finding solutions even when things didn’t work.
-Building Confidence: Gaining the ability to solve any coding problem step-by-step.
-It was tough, but the experience was rewarding and life-changing.
-
-
-
-🚀 Final Reflection
-The Piscine gave me:
-
-A solid foundation in C programming and Unix systems.
-A passion for problem-solving and pushing my limits.
-The confidence to tackle advanced programming challenges in the future.
-This is just the beginning of my journey at 1337 School, and I can’t wait to see what’s next.
-
-
-
-Thank you for checking out my Piscine progress! Stay tuned for updates as I take on bigger and more exciting projects. 🌟
-
+    <p>Thank you for checking out my Piscine journey! 🚀 Stay tuned for more updates as I continue to grow and tackle bigger challenges.</p>
+</body>
+</html>
